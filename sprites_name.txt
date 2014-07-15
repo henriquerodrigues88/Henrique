@@ -1,0 +1,38 @@
+sprites
+
+man
+spr_man = clay_dir
+spr_mandr = clay_morto_dir
+spr_mandl = clay_morto_esq
+spr_manjr = clay_anda_dir
+spr_manl = clay_esq
+spr_manjl = clay_anda_esq
+man_mask = clay_mask
+man_dead_mask = clay_morto_mask
+man_dead_mask2 = clay_morto_mask2
+spr_lvlup = clay_level_up
+
+weapons
+spr_pistolr = pistola_dir
+spr_pistoll = pistola_esq
+spr_pistolf = pistola_cai
+spr_uzir = uzi_dir
+spr_uzil = uzi_esq
+spr_uzif = uzi_cai
+spr_uzi_shell = uzi_shell
+spr_bullet = balas
+spr_gunfire = tiros
+
+blocks
+spr_block = block
+
+enemies
+spr_enemy1r = agente_dir
+spr_enemy1jr = agente_pula_dir
+spr_enemy1dr = agente_anda_dir
+spr_enemy1dr2 = agente_morto_esq
+spr_enemy1l = agente_esq
+spr_enemy1jl = agente_pula_esq
+spr_enemy1dl = agente_anda_esq
+spr_enemy1dl2 = agente_morto_dir
+spr_enemy1_win = agente_vence
